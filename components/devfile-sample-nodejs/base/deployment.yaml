@@ -28,7 +28,7 @@ spec:
       - env:
         - name: SUMMIT_YEAR
           value: "2023"
-        image: nodejs-image:latest
+        image: quay.io/redhat-user-workloads/gmccarth-tenant/devfile-sample-nodejs/devfile-sample-nodejs@sha256:2796f27391c824c2832fc4cdf0fa6e27eefaae37be05316b038b5bdf83815bcc
         name: my-nodejs
         ports:
         - containerPort: 3001
