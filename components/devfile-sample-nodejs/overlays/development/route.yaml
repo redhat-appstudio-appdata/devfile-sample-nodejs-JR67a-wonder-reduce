@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-nodejs
     app.kubernetes.io/part-of: devfile-sample-nodejs
-  name: devfile-sample-nodejs5sn0
+  name: devfile-sample-nodejs4bsp
 spec:
   path: /
   port:
